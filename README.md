@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @abhijeetvinkare
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Abhijeet Vinkare.
+- 👀 I’m interested in FullStack Development.
+- 🎓 I'm currently Studying Master of Computer Application at the Swami Ramanand Teerth Marathwada University.
+- 🌱 I’m currently learning more about React.js and ReactNative.
 - 📫 reach me at abhijeetvinkare@gmail.com
-
-
