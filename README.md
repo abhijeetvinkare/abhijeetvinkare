@@ -19,6 +19,6 @@ I am currently focused on enhancing my skills in the MERN stack and exploring th
 - Email: abhijeetvinkare@gmail.com
 - LinkedIn: [Abhijeet Vinkare](https://www.linkedin.com/in/abhijeet-vinkare-2956a61ab/)
 - Instagram: [@__abhijeet__vinkare](https://www.instagram.com/__abhijeet__vinkare/)
-- PORTFOLIO: https://abhijeetvinkare.netlify.app/
+- Portfolio: https://abhijeetvinkare.netlify.app/
 
 I'm always open to new opportunities and collaborations. If you have any questions or would like to discuss a project, feel free to reach out to me. Let's connect and create something amazing together!
